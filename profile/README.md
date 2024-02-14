@@ -2,7 +2,7 @@
 
 🙋‍♀️ Welcome to AI & Robot Vision (airv) lab! 
 
-🍿 We want to develop methods that allow the robot to see and act like humans.
+🍿 We develop methods that allow the robot to see and act like humans.
 
 👩‍💻 Models and data will be continuously updated, so stay tuned!
 
